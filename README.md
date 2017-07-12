@@ -1,8 +1,9 @@
-## Arduino
+# Trashbot!
+
+###See the wiki for more information
 
 This is a set of libraries and arduino programs for a "trashbot"
 
-See the wiki for more information
 
 
 
